@@ -1,32 +1,26 @@
-<p align="left"> Hi there, <span><h1>Ale</h1></span>here 👋🙂</p>
+<p align="left"> Hi there, <span><strong>Ale</strong></span> here 👋🙂</p>
 
-[![Gmail Badge](https://img.shields.io/badge/-alejandroarends77@gmail.com-c71610?style=flat&logo=Gmail&logoColor=white)](mailto:alejandroarends77@gmail.com "Connect via Email")
+[![Gmail Badge](https://img.shields.io/badge/-GMAIL-c71610?style=flat&logo=Gmail&logoColor=white)](mailto:alejandroarends77@gmail.com "Connect via Email")
+[![Linkedin Badge](https://img.shields.io/badge/-LINKEDIN-0e76a8?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/alejandro-arends/ "Connect on LinkedIn")
 
-[![Linkedin Badge](https://img.shields.io/badge/-Alejandro%20Arends-986DFF?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/iuricode/)](https://www.linkedin.com/in/iuricode/) 
+## 💬 Pregúntame sobre
 
-## ✨ Acerca de mí
+- 💻 Full-stack developer
+- 🔄 Agile Coach
+- 🔄 Scrum Master
+- 🔄 Product Owner
+- 📊 Agile Project Manager
 
-- 💻 Full-stack developer enfocado hacia el cliente.
-- 🔄 Agile Coach y Scrum Master.
-- 📊 Project Manager que integra enfoques tradicionales y ágiles.
-- 🚀 Apasionado por apoyar la maduración de Equipos multidisciplinarios,
-      generando valor para clientes y partes interesadas,
-      buscando aumentar la sostenibilidad y agilidad.
+🚀 Apasionado por apoyar la maduración de Equipos multidisciplinarios,
+   genero valor a clientes y partes interesadas,
+   optimizo para aumentar la sostenibilidad y agilidad.
+
 
 
 ## ⚡Fun Facts
 
 - Actualmente trabajando en algo genial! 🌟
 - En busca de colaborar en un proyecto cool. 🚀
-
-
-## 💬 Pregúntame sobre
-
-- Full-stack
-- Agile Coach
-- Scrum Master
-- Product Owner
-- Agile Project Manager
 
 
 ### Desarrollo Web
