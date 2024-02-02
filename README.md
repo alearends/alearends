@@ -1,12 +1,9 @@
 
 
-   [![Know me in English](https://img.shields.io/badge/-Know_me_in_English-%23ffffff.svg?style=for-the-badge&logoColor=151515)](#hello-english) [![Conoceme en Castellano](https://img.shields.io/badge/-Know_me_in_Spanish-%23ffffff.svg?style=for-the-badge&logoColor=151515)](#hola-spanish) 
-   [![Final de la pagina](https://img.shields.io/badge/-fin_de_la_pagina-%23ffffff.svg?style=for-the-badge&logoColor=151515)](#endPage) 
+   [![Know me in English](https://img.shields.io/badge/-Know_me_in_English-%23ffffff.svg?style=for-the-badge&logoColor=151515)](#Hi_there,_Ale_here_👋🙂 (he/him)) [![Conoceme en Castellano](https://img.shields.io/badge/-Know_me_in_Spanish-%23ffffff.svg?style=for-the-badge&logoColor=151515)](#Hola!,_soy_Ale_👋🙂_(el)) [![Final de la pagina](https://img.shields.io/badge/-fin_de_la_pagina-%23ffffff.svg?style=for-the-badge&logoColor=151515)](#endPage) 
 
 
-[Castellano](#Hola!,_soy_Ale_👋🙂_(el))
-[English](#Hi_there,_Ale_here_👋🙂 (he/him))
-[fin de la pagina](#endPage)
+[Castellano](#Hola!,_soy_Ale_👋🙂_(el))  [English](#Hi_there,_Ale_here_👋🙂 (he/him))  [fin de la pagina](#endPage)
 
 
 # Hola!, soy Ale 👋🙂 (el)
