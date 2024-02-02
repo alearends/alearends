@@ -36,7 +36,7 @@
 
 ---
 
-# Hi_there,_Ale_here_👋🙂_(he/him)
+# Hi_there,_Ale_here_👋🙂 (he/him)
 
 [![Gmail Badge](https://img.shields.io/badge/-GMAIL-c71610?style=flat&logo=Gmail&logoColor=white)](mailto:alejandroarends77@gmail.com "Connect via Email")
 [![Linkedin Badge](https://img.shields.io/badge/-LINKEDIN-0e76a8?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/alejandro-arends/ "Connect on LinkedIn")
