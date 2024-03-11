@@ -86,7 +86,7 @@
   - 🔄 Product Owner
   - 📊 Agile Project Manager
 
-  🚀 I am passionate about supporting maturation of teams,
+  🚀 I am passionate about supporting the maturation of teams,
   I generate value for clients and stakeholders,
   I optimize to increase sustainability and agility.
 
