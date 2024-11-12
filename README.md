@@ -9,16 +9,20 @@
 
 ### About Me 
 
-  🚀 I am passionate about supporting the maturation of teams,
-  I generate value for clients and stakeholders,
+  🚀 I am passionate about supporting the maturation of teams, <br>
+  I generate value for clients and stakeholders, <br>
   I optimize to increase sustainability and agility.
+
+  Versatile and proactive, I combine strategy and technical skills to lead teams. 
+  I am innovative and results-oriented, driving efficiency in agile environments. 
+  Dynamic and analytical, I solve complex challenges with a user-centric focus.
 
 ### 💬 Ask me about
 ### 
 | 🔄 AGILE | 📊 PROGRAM MANAGEMENT | 👩‍💻 FRONTEND DEVELOPMENT | 👩‍💻 BACKEND DEVELOPMENT | ⚡ Ai | TOOLS |
 |:--------------------|:--------------------|:------------------|:---------------------|:---------------------|:------|
 | Agile Mindset | Change Management |User Research | Node, Express | Prompt Engineer | Discord, Zoom, Slack |
-| Agile Inception | Project Portfolio Management | Figma, Mockups, Wireframe | Java | ChatGPT | Figma |
+| Agile Inception | Project Portfolio Management | Figma, Mockups, Wireframe | Java | ChatGPT | Figma, VSCode, NetBeans |
 | Scrum, Kanban, Scrumban | Stakeholder Communication | Responsive Design | MySQL | Claude | Jira, Trello |
 | Sprint Design, Design Thinking | Team Coordination | HTML, CSS, JavaScript | MongoDb | Gemini | Miro |
 | Scrum Master, Agile Coach | Process Optimization | TailwindCSS | API | Perplexity | Notion | 
@@ -57,18 +61,22 @@
 ![Mongo Atlas](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongo_atlas&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 
-### Gestión
+### Tools
 ![Miro](https://img.shields.io/badge/Miro-F7C922?style=for-the-badge&logo=Miro&logoColor=050036)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)
-
-### Comunicación
 ![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
 ![Zoom](https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white)
 
-### Educación
+### Educaction
 ![Coursera](https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white)
 
 ---
+## Contact
 
+Feel free to reach out for collaborations or just a friendly chat. You can contact me via [email](mailto:alejandroarends77@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/alejandro-arends).
+
+---
+
+Thank you for visiting my GitHub profile!
