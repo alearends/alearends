@@ -7,14 +7,13 @@
 
 <img src="https://res.cloudinary.com/dugjebahu/image/upload/v1706666065/Avatares/myAvatar-400x400_g752bb.png" align="right" height="275" />
 
-## About Me 
+### About Me 
 
   🚀 I am passionate about supporting the maturation of teams,
   I generate value for clients and stakeholders,
   I optimize to increase sustainability and agility.
 
-## 💬 Ask me about
-
+### 💬 Ask me about
 ### 
 | 🔄 AGILE | 📊 PROGRAM MANAGEMENT | 👩‍💻 FRONTEND DEVELOPMENT | 👩‍💻 BACKEND DEVELOPMENT | ⚡ Ai | TOOLS |
 |:--------------------|:--------------------|:------------------|:---------------------|:---------------------|:------|
@@ -27,12 +26,12 @@
 | Agile Metrics and Reporting | Budget Management | Vue.Js, React.js |  | Hugging Face | Replit |  
 
  
+---
 
+### ⚡Fun Facts
 
-  ## ⚡Fun Facts
-
-  - Currently, I am working on something cool! 🌟
-  - I am looking for a collaborative and interesting project. 🚀
+ - Currently, I am working on something cool! 🌟
+ - I am looking for a collaborative and interesting project. 🚀
 
 
 ### Frameworks, Plataformas y Libraries
