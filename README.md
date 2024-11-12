@@ -13,8 +13,8 @@
   I generate value for clients and stakeholders, <br>
   I optimize to increase sustainability and agility.
 
-  Versatile and proactive, I combine strategy and technical skills to lead teams. 
-  I am innovative and results-oriented, driving efficiency in agile environments. 
+  Versatile and proactive, I combine strategy and technical skills to lead teams. <br>
+  I am innovative and results-oriented, driving efficiency in agile environments. <br>
   Dynamic and analytical, I solve complex challenges with a user-centric focus.
 
 ### 💬 Ask me about
