@@ -1,8 +1,10 @@
 # Hi there, Alejandro here 👋🙂 (he/him)
 Agile Project Manager | Scrum Master | Fullstack Developer
 
+<p align="right">
 [![Gmail Badge](https://img.shields.io/badge/-GMAIL-c71610?style=flat&logo=Gmail&logoColor=white)](mailto:alejandroarends77@gmail.com "Connect via Email")
 [![Linkedin Badge](https://img.shields.io/badge/-LINKEDIN-0e76a8?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/alejandro-arends/ "Connect on LinkedIn")
+</p>
 
 ---
 
@@ -42,7 +44,7 @@ Agile Project Manager | Scrum Master | Fullstack Developer
 ## ⚡Fun Facts
 
  - Currently, I am working on something cool! 🌟
- - I am looking for a collaborative and interesting project. 🚀
+ - I’m looking to collaborate on cool project 🚀  
 
 
 ## Frameworks, Platforms & Libraries
