@@ -1,4 +1,5 @@
 # Hi there, Alejandro here 👋🙂 (he/him)
+Agile Project Manager | Scrum Master | Fullstack Developer
 
 [![Gmail Badge](https://img.shields.io/badge/-GMAIL-c71610?style=flat&logo=Gmail&logoColor=white)](mailto:alejandroarends77@gmail.com "Connect via Email")
 [![Linkedin Badge](https://img.shields.io/badge/-LINKEDIN-0e76a8?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/alejandro-arends/ "Connect on LinkedIn")
@@ -29,16 +30,22 @@
 | Lean, kaizen, Gemba Walking | Risk management | Accessibility | End Points | Copilot | Confluence |
 | Agile Metrics and Reporting | Budget Management | Vue.Js, React.js |  | Hugging Face | Replit |  
 
- 
----
+## Certifications
 
-### ⚡Fun Facts
+- **Scrum Master** - ScrumManager ID: 41893
+- **Product Owner** - ScrumManager ID: 41893
+- **Agile Foundation** - ScrumManager ID: 41893
+- **UX Design** - Google ID: RGVNJ7R6M8SE
+- **Project Manager** - Google ID:XYUAUR58TBLN
+- **English B1** - Cambrige ID:B8288535
+
+## ⚡Fun Facts
 
  - Currently, I am working on something cool! 🌟
  - I am looking for a collaborative and interesting project. 🚀
 
 
-### Frameworks, Plataformas y Libraries
+## Frameworks, Platforms & Libraries
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E)
@@ -69,8 +76,6 @@
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
 ![Zoom](https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white)
 
-### Educaction
-![Coursera](https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white)
 
 ---
 ## Contact
