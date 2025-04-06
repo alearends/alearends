@@ -86,8 +86,8 @@ Got a cool idea, team, or project? Let’s talk!
 
 ---
 
-> Let’s build something **Agile, human-centered and awesome** together 💫
-Thank you for visiting my GitHub profile!
+Let’s build something **Agile, human-centered and awesome** together 💫
+> Thank you for visiting my GitHub profile!
 ---
 
 ### 🛠️ Tools & Technologies
