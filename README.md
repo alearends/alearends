@@ -1,5 +1,7 @@
 # Hi there, Alejandro here 👋🙂 (he/him)
-Agile Project Manager | Scrum Master | Fullstack Developer                                                       
+
+**Agile Coach | Scrum Master | Fullstack Developer**  
+*Empowering teams through agility, tech & creativity*                                                     
 
 [![Gmail Badge](https://img.shields.io/badge/-GMAIL-c71610?style=flat&logo=Gmail&logoColor=white)](mailto:alejandroarends77@gmail.com "Connect via Email")
 [![Linkedin Badge](https://img.shields.io/badge/-LINKEDIN-0e76a8?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/alejandro-arends/ "Connect on LinkedIn")
@@ -9,17 +11,29 @@ Agile Project Manager | Scrum Master | Fullstack Developer
 
 <img src="https://res.cloudinary.com/dugjebahu/image/upload/v1706666065/Avatares/myAvatar-400x400_g752bb.png" align="right" height="275" />
 
-### About Me 
+### 💡 About Me 
 
-  🚀 I am passionate about supporting the maturation of teams, <br>
-  I generate value for clients and stakeholders, <br>
-  I optimize to increase sustainability and agility.
+I’m a hybrid professional blending **Agile coaching** with **fullstack development**.  
+While I love building applications, my true passion lies in helping developers and teams thrive through Agile values and creative facilitation.
 
-  Versatile and proactive, I combine strategy and technical skills to lead teams. <br>
-  I am innovative and results-oriented, driving efficiency in agile environments. <br>
-  Dynamic and analytical, I solve complex challenges with a user-centric focus.
+🧠 I teach Agile to developers with a dev-friendly approach.  
+🌱 I enjoy nurturing Agile mindsets in bootcamps, startups, and creative teams.  
+🛠️ I code to stay sharp and keep empathy with dev teams high.  
+✨ I bring an energy of co-creation, innovation, and continuous learning.
 
-### 💬 Ask me about
+> "My goal is to be the Agile Coach or Scrum Master that developers *actually* want to work with."
+
+---
+
+### 🔍 Currently Exploring
+- **Agile AI** tools for developer experience  
+- **Agile & Mindfulness** for well-being and team flow  
+- Building **Agile-first teams** with XP and Lean inspiration  
+- Expanding skills in **React, Python, and more**
+
+---
+
+### 🔧 My Toolbox
 ### 
 | 🔄 AGILE | 📊 PROGRAM MANAGEMENT | 👩‍💻 FRONTEND DEVELOPMENT | 👩‍💻 BACKEND DEVELOPMENT | ⚡ Ai | TOOLS |
 |:--------------------|:--------------------|:------------------|:---------------------|:---------------------|:------|
@@ -31,7 +45,21 @@ Agile Project Manager | Scrum Master | Fullstack Developer
 | Lean, kaizen, Gemba Walking | Risk management | Accessibility | End Points | Copilot | Confluence |
 | Agile Metrics and Reporting | Budget Management | Vue.Js, React.js |  | Hugging Face | Replit |  
 
-## Certifications
+---
+
+### 🧠 Courses I’ve Created & Taught
+
+- **Agilidad en Bootcamps**
+- **Design Thinking para Devs**
+- **Scrum Avanzado para Devs**
+- **Agile Mindfulness**
+- **XP Essentials**
+
+> More than 200 developers have learned Agile with me — and I keep learning from them too!
+
+---
+
+### ✅ Certifications
 
 - **Scrum Master** - ScrumManager ID: 41893
 - **Product Owner** - ScrumManager ID: 41893
@@ -42,7 +70,9 @@ Agile Project Manager | Scrum Master | Fullstack Developer
 
 ## ⚡Fun Facts
 
- - Currently, I am working on something cool! 🌟
+ - I'm currently working on something cool! 🌟
+ - I’d love to collaborate on projects with an **Agile soul** 🧘‍♂️
+ - I’m a fan of simplicity, storytelling, and meaningful work 🌱
  - I’m looking to collaborate on cool project 🚀  
 
 
@@ -79,10 +109,14 @@ Agile Project Manager | Scrum Master | Fullstack Developer
 
 
 ---
-## Contact
+### 📫 Let's Connect
 
-Feel free to reach out for collaborations or just a friendly chat. You can contact me via [email](mailto:alejandroarends77@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/alejandro-arends).
+Got a cool idea, team, or project? Let’s talk!
+
+📧 [Email me](mailto:alejandroarends77@gmail.com)  
+🔗 [LinkedIn](https://www.linkedin.com/in/alejandro-arends)
 
 ---
 
 Thank you for visiting my GitHub profile!
+Let’s build something **Agile, human-centered and awesome** together 💫
