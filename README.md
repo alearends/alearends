@@ -24,9 +24,9 @@ Agile Project Manager | Scrum Master | Fullstack Developer
 | 🔄 AGILE | 📊 PROGRAM MANAGEMENT | 👩‍💻 FRONTEND DEVELOPMENT | 👩‍💻 BACKEND DEVELOPMENT | ⚡ Ai | TOOLS |
 |:--------------------|:--------------------|:------------------|:---------------------|:---------------------|:------|
 | Agile Mindset | Change Management |User Research | Node, Express | Prompt Engineer | Discord, Zoom, Slack |
-| Agile Inception | Project Portfolio Management | Figma, Mockups, Wireframe | Java | ChatGPT | Figma, VSCode, NetBeans |
-| Scrum, Kanban, Scrumban | Stakeholder Communication | Responsive Design | MySQL | Claude | Jira, Trello |
-| Sprint Design, Design Thinking | Team Coordination | HTML, CSS, JavaScript | MongoDb | Gemini | Miro |
+| Agile Inception | Project Portfolio Management | Figma, Mockups, Wireframe | Python, Java | ChatGPT | Figma, VSCode, NetBeans |
+| Scrum, Kanban, Scrumban, XP | Stakeholder Communication | Responsive Design | MySQL | Claude | Jira, Trello |
+| Design Sprint, Design Thinking | Team Coordination | HTML, CSS, JavaScript | MongoDb | Gemini | Miro |
 | Scrum Master, Agile Coach | Process Optimization | TailwindCSS | API | Perplexity | Notion | 
 | Lean, kaizen, Gemba Walking | Risk management | Accessibility | End Points | Copilot | Confluence |
 | Agile Metrics and Reporting | Budget Management | Vue.Js, React.js |  | Hugging Face | Replit |  
