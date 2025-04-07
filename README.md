@@ -38,12 +38,26 @@ While I love building applications, my true passion lies in helping developers a
 | 🔄 AGILE | 📊 PROGRAM MANAGEMENT | 👩‍💻 FRONTEND DEVELOPMENT | 👩‍💻 BACKEND DEVELOPMENT | ⚡ Ai | TOOLS |
 |:--------------------|:--------------------|:------------------|:---------------------|:---------------------|:------|
 | Agile Mindset | Change Management |User Research | Node, Express | Prompt Engineer | Discord, Zoom, Slack |
-| Agile Inception | Project Portfolio Management | Figma, Mockups, Wireframe | Python, Java | ChatGPT | Figma, VSCode, NetBeans |
+| Agile Inception | Project Portfolio Management | Figma, Mockups, Wireframe | Python, Java | ChatGPT | VSCode, NetBeans |
 | Scrum, Kanban, Scrumban, XP | Stakeholder Communication | Responsive Design | MySQL | Claude | Jira, Trello |
 | Design Sprint, Design Thinking | Team Coordination | HTML, CSS, JavaScript | MongoDb | Gemini | Miro |
 | Scrum Master, Agile Coach | Process Optimization | TailwindCSS | API | Perplexity | Notion | 
 | Lean, kaizen, Gemba Walking | Risk management | Accessibility | End Points | Copilot | Confluence |
 | Agile Metrics and Reporting | Budget Management | Vue.Js, React.js |  | Hugging Face | Replit |  
+
+---
+
+### 🔧 My Toolbox 2
+### 
+| 🔄 AGILE | 📊 PROGRAM MANAGEMENT | 👩‍💻 FRONTEND DEVELOPMENT | 👩‍💻 BACKEND DEVELOPMENT | ⚡ Ai | TOOLS |
+|:--------------------|:--------------------|:------------------|:---------------------|:---------------------|:------|
+| Agile Mindset | Change Management |User Research | Node, Express | Prompt Engineer | VSCode, NetBeans, Replit |
+| Agile Inception | Portfolio Management | Figma, Mockups, Wireframe | Python, Java | ChatGPT | ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) |
+| Scrum, Kanban, Scrumban, XP | Stakeholder Communication | Responsive Design | MySQL | Claude | Trello, ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white) Confluence |
+| Design Sprint, Design Thinking | Team Coordination | HTML, CSS, JavaScript | MongoDb | Gemini | ![Miro](https://img.shields.io/badge/Miro-F7C922?style=for-the-badge&logo=Miro&logoColor=050036) |
+| Scrum Master, Agile Coach | Process Optimization | TailwindCSS | API | Perplexity | ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white) | 
+| Lean, kaizen, Gemba Walking | Risk management | Accessibility | End Points | Copilot | ![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white) ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white) |
+| Agile Metrics and Reporting | Budget Management | Vue.Js, React.js |  | Hugging Face | ![Zoom](https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white) |  
 
 ---
 
@@ -81,8 +95,8 @@ While I love building applications, my true passion lies in helping developers a
 
 Got a cool idea, team, or project? Let’s talk!
 
-📧 [Email me](mailto:alejandroarends77@gmail.com)  
-🔗 [LinkedIn](https://www.linkedin.com/in/alejandro-arends)
+[![Gmail Badge](https://img.shields.io/badge/-GMAIL-c71610?style=flat&logo=Gmail&logoColor=white)](mailto:alejandroarends77@gmail.com "Connect via Email")
+[![Linkedin Badge](https://img.shields.io/badge/-LINKEDIN-0e76a8?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/alejandro-arends/ "Connect on LinkedIn")
 
 ---
 
@@ -125,11 +139,10 @@ Let’s build something **Agile, human-centered and awesome** together 💫
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![PNPM](https://img.shields.io/badge/pnpm-%234a4a4a.svg?style=for-the-badge&logo=pnpm&logoColor=f69220)
 
-#### Collaboration Tools
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Miro](https://img.shields.io/badge/Miro-F7C922?style=for-the-badge&logo=Miro&logoColor=050036)
-![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)
-![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)
-![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
-![Zoom](https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white)
+
+
+
+
+
+
+
