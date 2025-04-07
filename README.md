@@ -51,11 +51,11 @@ While I love building applications, my true passion lies in helping developers a
 ### 
 | 🔄 AGILE | 📊 PROGRAM MANAGEMENT | 👩‍💻 FRONTEND DEVELOPMENT | 👩‍💻 BACKEND DEVELOPMENT | ⚡ Ai | TOOLS |
 |:--------------------|:--------------------|:------------------|:---------------------|:---------------------|:------|
-| Agile Mindset | Change Management |User Research | Node, Express | Prompt Engineer | VSCode, NetBeans, Replit |
+| Agile Mindset | Change Management |User Research | Node, Express | Prompt Engineer | ![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) ![NetBeans](https://img.shields.io/badge/NetBeansIDE-1B6AC6.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white) ![Replit](https://img.shields.io/badge/Replit-DD1200?style=for-the-badge&logo=Replit&logoColor=white) |
 | Agile Inception | Portfolio Management | Figma, Mockups, Wireframe | Python, Java | ChatGPT | ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) |
-| Scrum, Kanban, Scrumban, XP | Stakeholder Communication | Responsive Design | MySQL | Claude | Trello, ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white) Confluence |
-| Design Sprint, Design Thinking | Team Coordination | HTML, CSS, JavaScript | MongoDb | Gemini | ![Miro](https://img.shields.io/badge/Miro-F7C922?style=for-the-badge&logo=Miro&logoColor=050036) |
-| Scrum Master, Agile Coach | Process Optimization | TailwindCSS | API | Perplexity | ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white) | 
+| Scrum, Kanban, Scrumban, XP | Stakeholder Communication | Responsive Design | MySQL | Claude | ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white) |
+| Design Sprint, Design Thinking | Team Coordination | HTML, CSS, JavaScript | MongoDb | Gemini | ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white) ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white) |
+| Scrum Master, Agile Coach | Process Optimization | TailwindCSS | API | Perplexity | ![Miro](https://img.shields.io/badge/Miro-F7C922?style=for-the-badge&logo=Miro&logoColor=050036) | 
 | Lean, kaizen, Gemba Walking | Risk management | Accessibility | End Points | Copilot | ![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white) ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white) |
 | Agile Metrics and Reporting | Budget Management | Vue.Js, React.js |  | Hugging Face | ![Zoom](https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white) |  
 
@@ -132,8 +132,8 @@ Let’s build something **Agile, human-centered and awesome** together 💫
 ![Mongo Atlas](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongo_atlas&logoColor=white)
 
 #### Development Tools
-![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![NetBeans](https://img.shields.io/badge/NetBeansIDE-1B6AC6.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)
+
+
 ![Vite](https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E)
 ![Threejs](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
