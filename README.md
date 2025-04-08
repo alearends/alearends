@@ -35,20 +35,6 @@ While I love building applications, my true passion lies in helping developers a
 
 ### 🔧 My Toolbox
 ### 
-| 🔄 AGILE | 📊 PROGRAM MANAGEMENT | 👩‍💻 FRONTEND DEVELOPMENT | 👩‍💻 BACKEND DEVELOPMENT | ⚡ Ai | TOOLS |
-|:--------------------|:--------------------|:------------------|:---------------------|:---------------------|:------|
-| Agile Mindset | Change Management |User Research | Node, Express | Prompt Engineer | Discord, Zoom, Slack |
-| Agile Inception | Project Portfolio Management | Figma, Mockups, Wireframe | Python, Java | ChatGPT | VSCode, NetBeans |
-| Scrum, Kanban, Scrumban, XP | Stakeholder Communication | Responsive Design | MySQL | Claude | Jira, Trello |
-| Design Sprint, Design Thinking | Team Coordination | HTML, CSS, JavaScript | MongoDb | Gemini | Miro |
-| Scrum Master, Agile Coach | Process Optimization | TailwindCSS | API | Perplexity | Notion | 
-| Lean, kaizen, Gemba Walking | Risk management | Accessibility | End Points | Copilot | Confluence |
-| Agile Metrics and Reporting | Budget Management | Vue.Js, React.js |  | Hugging Face | Replit |  
-
----
-
-### 🔧 My Toolbox 2
-### 
 | 🔄 AGILE | 📊 PROGRAM MANAGEMENT | ⚡ Ai | 👩‍💻 WEB DEVELOPMENT | TOOLS |
 |:--------------------|:--------------------|:------------------|:---------------------|:---------------------|
 | Agile Mindset | Change Management | Prompt Engineer | ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Vite](https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E) | ![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) ![Replit](https://img.shields.io/badge/Replit-DD1200?style=for-the-badge&logo=Replit&logoColor=white) ![NetBeans](https://img.shields.io/badge/NetBeans-1B6AC6.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white) |
