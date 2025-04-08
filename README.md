@@ -89,16 +89,7 @@ Got a cool idea, team, or project? Let’s talk!
 Let’s build something **Agile, human-centered and awesome** together 💫
 > Thank you for visiting my GitHub profile!
 
----
 
-### 🛠️ Tools & Technologies
-
-
-#### Development Tools
-
-![Threejs](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white)
-![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
-![PNPM](https://img.shields.io/badge/pnpm-%234a4a4a.svg?style=for-the-badge&logo=pnpm&logoColor=f69220)
 
 
 
